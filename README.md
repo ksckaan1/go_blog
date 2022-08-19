@@ -11,4 +11,5 @@
 ## Preview
 
 
-https://raw.githubusercontent.com/ksckaan1/go_blog/master/go_blog_preview.mov
+https://user-images.githubusercontent.com/33625775/185672203-c633e578-c0c2-4b92-8e6a-c06975bb3e05.mp4
+

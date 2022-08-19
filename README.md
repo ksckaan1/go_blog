@@ -11,4 +11,4 @@
 ## Preview
 
 
-![](./preview.gif)
+https://raw.githubusercontent.com/ksckaan1/go_blog/master/go_blog_preview.mov
